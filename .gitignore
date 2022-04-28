@@ -1,0 +1,5 @@
+#ignorar para o commit testando
+
+front-bate-papo-uol
+node_modules
+/arquivoTeste.txt
